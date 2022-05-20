@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "email": "one@boozt.com"
+  },
+  {
+    "id": 2,
+    "email": "one@boozt.com"
+  },
+  {
+    "id": 3,
+    "email": "two@boozt.com"
+  },
+  {
+    "id": 4,
+    "email": "four@boozt.com"
+  },
+  {
+    "id": 5,
+    "email": "one@boozt.com"
+  },
+  {
+    "id": 6,
+    "email": "three@boozt.com"
+  },
+  {
+    "id": 7,
+    "email": "five@boozt.com"
+  },
+  {
+    "id": 8,
+    "email": "five@boozt.com"
+  },
+  {
+    "id": 9,
+    "email": "six@boozt.com"
+  },
+  {
+    "id": 10,
+    "email": "nine@boozt.com"
+  },
+  {
+    "id": 11,
+    "email": "ten@boozt.com"
+  }
+]
